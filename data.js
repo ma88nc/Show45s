@@ -1,0 +1,23 @@
+let records = [
+    {'artist': 'Elvis Presley', 'title': 'Little Sister', 'releaseDate': '1961-08-08', 'coverArt': 'little_sister.jpg'},
+    {'artist': 'Lesley Gore', 'title': 'She\'s A Fool', 'releaseDate': '1963-09', 'coverArt': 'shes_a_fool.jpg'},
+    {'artist': 'The Angels', 'title': 'I Adore Him', 'releaseDate': '1963-10', 'coverArt': 'i_adore_him.jpg'},
+    {'artist': 'Gene Pitney', 'title': 'It Hurts To Be In Love', 'releaseDate': '1964-07', 'coverArt': 'it_hurts_to_be_in_love.jpg'},
+    {'artist': 'Connie Francis', 'title': 'Don\'t Ever Leave Me', 'releaseDate': '1964-10', 'coverArt': 'dont_ever_leave_me.jpg'},
+    {'artist': 'Brenda Lee', 'title': 'Is It True', 'releaseDate': '1964-10', 'coverArt': 'is_it_true.jpg'},
+    {'artist': 'Gary Puckett', 'title': 'Lady Willpower', 'releaseDate': '1968-08', 'coverArt': 'lady_willpower.jpg'},
+    {'artist': 'Archies', 'title': 'Bang-Shang-A-Lang', 'releaseDate': '1968-08', 'coverArt': 'bang_shang_a_lang.jpg'},
+    {'artist': 'Rachel Sweet', 'title':'B-A-B-Y', 'releaseDate': '1978', 'coverArt':'b-a-b-y.jpg'},
+    {'artist': 'Stray Cats', 'title': 'Stray Cat Strut', 'releaseDate': '1981-04-17', 'coverArt': 'stray_cat_strut.jpg'},
+    {'artist': 'Mamas & Papas', 'title': 'Creeque Alley', 'releaseDate': '1967-04', 'coverArt': 'creeque_alley.jpg'},
+    {'artist': 'Holly & the Italians', 'title': 'Miles Away', 'releaseDate': '1981', 'coverArt': 'miles_away.jpg'},
+    {'artist': 'Herman\'s Hermits', 'title': 'I\'m Henry VIII, I Am', 'releaseDate': '1965-06', 'coverArt': 'i\'m_henry_viii_i_am.jpg'},
+    {'artist': 'Squeeze', 'title': 'Is That Love', 'releaseDate': '1981-05-01', 'coverArt':'is_that_love.jpg'},
+    {'artist': 'Los Lobos', 'title': 'One Time, One Night', 'releaseDate': '1988', 'coverArt': 'one_time_one_night.jpg'},
+    {'artist': 'The Beatles', 'title': 'Yellow Submarine', 'releaseDate': '1966-08-05', 'coverArt': 'yellow_submarine.jpg'},
+    {'artist': 'David Bowie', 'title': 'Space Oddity', 'releaseDate': '1969-07-11', 'coverArt': 'space_oddity.jpg'},
+    {'artist': 'Lone Justice', 'title': 'Ways To Be Wicked', 'releaseDate': '1985', 'coverArt': 'ways_to_be_wicked.jpg'},
+    {'artist': 'ABBA', 'title': 'Take a Chance on Me', 'releaseDate': '1978-01', 'coverArt': 'take_a_chance_on_me.jpg'},
+    {'artist': 'REM', 'title': 'Radio Free Europe', 'releaseDate': '1981-07-08', 'coverArt': 'radio_free_europe.png'},
+    {'artist': 'Shocking Blue', 'title': 'Venus', 'releaseDate': '1969-07', 'coverArt': 'venus.jpg'}
+];
